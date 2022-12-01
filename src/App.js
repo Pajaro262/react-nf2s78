@@ -1,11 +1,11 @@
 import React from "react";
 import "./style.css";
 
-export default function App() {
+funcion App() {
   return (
+    <div> classname="App">
+      <p>Hello  mundo< p/>
     <div>
-      <h1>Hello 1 mundo>
-      <p>Start editing to see some magic happen :)</p>
-    </div>
+     
   );
 }
